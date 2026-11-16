@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "rugged-demand": {
+      "type": "http",
+      "url": "https://my.ruggeddemand.ai/mcp",
+      "headers": { "Authorization": "Bearer ${user_config.api_token}" }
+    }
+  }
+}

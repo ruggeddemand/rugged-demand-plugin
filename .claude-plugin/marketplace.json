@@ -1,0 +1,12 @@
+{
+  "name": "rugged-demand",
+  "owner": { "name": "Rugged Demand" },
+  "description": "Rugged Demand's plugin for its licensees.",
+  "plugins": [
+    {
+      "name": "rugged-demand",
+      "source": "./",
+      "description": "Work with your Rugged Demand apps from Claude: Leads, Image gen and the site-building playbook."
+    }
+  ]
+}

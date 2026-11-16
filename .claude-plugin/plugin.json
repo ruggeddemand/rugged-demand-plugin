@@ -1,0 +1,14 @@
+{
+  "name": "rugged-demand",
+  "version": "0.1.0",
+  "description": "Work with your Rugged Demand apps from Claude: Leads, Image gen and the site-building playbook.",
+  "author": { "name": "Rugged Demand" },
+  "userConfig": {
+    "api_token": {
+      "type": "string",
+      "title": "Rugged Demand API token",
+      "description": "Make one at my.ruggeddemand.ai, on the Apps page (New token). It starts with rdp_.",
+      "sensitive": true
+    }
+  }
+}
